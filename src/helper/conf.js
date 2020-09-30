@@ -12,3 +12,10 @@ const connection = mysql.createPool({
 
 
 module.exports = { port,connection }
+
+
+SQL_PASSWORD = defjamfv
+SQL_HOST = localhost
+SQL_USER = root
+SQL_NAME = portofolio
+PORT = 4000
